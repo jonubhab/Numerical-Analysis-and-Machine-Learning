@@ -1,4 +1,4 @@
-# Numerical-Analysis-and-Machine-Learning
+# Numerical-Analysis
 
 Files to be used: 01_Lagrange Interpolation.py
 
